@@ -1,5 +1,5 @@
 ### Script para instalação e configuração de um servidor LEMP
-### Nginx - MySQL - PHP
+### Nginx - MariaDB - PHP
 ### Dist. Debian 9 (Strech)
 
 ### Atualizado em 23/06/2017
