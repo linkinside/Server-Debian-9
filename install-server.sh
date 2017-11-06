@@ -20,7 +20,7 @@ cp sources.list /etc/apt/
 apt update && apt upgrade && apt dist-upgrade
 
 ### Pacotes essenciais
-apt install curl wget apt-transport-https dirmngr lsb-release ca-certificates
+apt install curl wget apt-transport-https dirmngr lsb-release ca-certificates zip
 
 ### Instalando os serviços
 
